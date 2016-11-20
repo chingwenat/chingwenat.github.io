@@ -1,4 +1,36 @@
-.menu {
-	background-color: red;
-	border-radius: 40px;
+h1,h2{
+	color:firebrick;
 }
+
+body{
+	background-color:black;
+	font-family: 'Delius Unicase', cursive;
+	font-weight: 400;
+}
+p{
+	color:#333435; font-family: 'Delius Unicase', cursive;
+}
+.bobmarley{
+	color: gold; font-family: 'Delius Unicase', cursive;
+}
+.tupac{
+	color:crimson; font-family: 'Delius Unicase', cursive;;
+}
+.weekend{
+	color:blue; font-family: 'Delius Unicase', cursive;;
+}
+#callme{
+	color; purple; font-family:Helvetica Rounded; font-style:italic;
+}
+
+.header-block {
+	background-image:url("http://img04.deviantart.net/b7ec/i/2010/302/5/7/stormy_sky_background_by_firesign24_7-d31rv8m.jpg");
+	background-repeat:;
+}
+.navbar-brand {
+	color: white !important;
+}
+/*
+  The dot (.) signifies that it's styling a class
+  The hash (#) signifies that it's styling an id
+*/
